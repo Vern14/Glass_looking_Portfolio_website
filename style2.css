@@ -1,0 +1,19 @@
+	body{background-color:white ; color: black; margin: 40px; background:url("1 (2).JPG"); max-width:1500px; }
+	div{background-color: black; color: white; margin: 100px;margin-top: 50px; padding-bottom: 50px; border-radius:4px; border-top: 1px solid rgba(0,0,0,0.5); background: rgba(0,0,0,0.2);  }
+	li{float:left; padding: 40px;text-decoration: none;}
+	#menu{text-decoration: none;padding:10px;  background-color: skyblue; border-right:0.5px solid silver; list-style-type:none; margin:0.5px;}
+	#menu1{padding:10px;  background-color:red;  list-style-type:none; margin:0.5px;}
+	#menu2{padding:10px;  background-color:green;  list-style-type:none; margin:0.5px;}
+	#menu3{padding:10px;  background-color:orange;  list-style-type:none; margin:0.5px;}
+	#menu4{position: relative; padding:10px; margin-bottom:30px;  background-color:#006699;  list-style-type:none; margin:0.5px;}
+	#menu:hover{font-weight:bold; padding:10px; border:white; background-color: yellowgreen;  list-style-type:none; margin:0.5px;}
+	#menu1:hover{font-weight:bold; padding:10px; border:white; background-color:yellowgreen;  list-style-type:none; margin:0.5px;}
+	#menu2:hover{font-weight:bold; padding:10px; border:white; background-color:yellowgreen;  list-style-type:none; margin:0.5px;}
+	#menu3:hover{font-weight:bold; padding:10px; border:white; background-color:yellowgreen;  list-style-type:none; margin:0.5px;}
+	#menu4:hover{font-weight:bold; position: relative; padding:10px; margin-bottom:30px; background-color: yellowgreen;  list-style-type:none; margin:0.5px; color:black;}
+	div:hover{ border-top: 1px solid rgba(0,0,0,0.3);}
+	#panel {position:relative; bottom:-10px;  padding:75px; padding-top:0px;  background:white ; color:black; margin:100px;margin-top:-70px; }
+	#maindiv{ background: rgba(0,0,0,0.2);}
+	#footerhr{border:solid black;}
+	#launchbutton{background-color: black; color:grey; text-decoration: none;}
+	#launchbutton:hover{background-color: black; color:white; text-decoration: none; }
